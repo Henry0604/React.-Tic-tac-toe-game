@@ -1,0 +1,24 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #22333b;
+}
+
+.titulo{
+  text-align: center;
+  color: white;
+}
+
+.para{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: white;
+}
+
+h2{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
