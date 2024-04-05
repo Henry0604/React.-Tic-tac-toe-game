@@ -4,8 +4,8 @@ Here, the aim is to create the tic-tac-toe game using React as the chosen framew
 ## Contents
 1. [Introduction](#introduction)
 2. [Technologies used](#technologies-used)
-3. [Installation](#installation)
-4. [Demonstration video](#demonstration-video)
+3. [Demonstration video](#demonstration-video)
+4. [Installation](#installation)
 
 ## Introduction
 This project was designed for the Internet Programming course, where the aim was to delve into the React framework and alongside that, implement a Tic-tac-toe game.
